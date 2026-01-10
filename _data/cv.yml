@@ -2,96 +2,129 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Swapnil Saha
+    - name: Location
+      value: New Brunswick, NJ, USA
+    - name: Email
+      value: swapnil.saha@rutgers.edu
+    - name: Links
+      value: linkedin.com/in/swapnil-saha · researchgate.net/Swapnil-Saha
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Electrical and Computer Engineering
+      institution: Rutgers, The State University of New Jersey
+      year: 2025 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - CGPA: 3.94/4
+    - title: M.S. in Electrical and Computer Engineering
+      institution: Rutgers, The State University of New Jersey
+      year: 2023 – 2025
       description:
-        - Description 1.
-        - Description 2.
+        - CGPA: 3.94/4
+    - title: B.S. in Electrical and Electronic Engineering
+      institution: Bangladesh University of Engineering and Technology (BUET)
+      year: 2017 – 2022
+      description:
+        - CGPA: 3.64/4
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Covert and Secure Wireless Communication (PhD Research)
+      institution: WINLAB, Rutgers University (Advisor: Prof. Predrag Spasojević)
+      year: 2025 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research on security techniques for wireless communication systems.
+    - title: Distributed Computing (MS Research)
+      institution: Rutgers University (Advisor: Prof. Emina Soljanin)
+      year: 2023 – 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Implemented faster distributed computing algorithms on distributed workload systems.
+    - title: Channel Estimation for IRS-based 6G Communication
+      institution: BUET (Advisor: Dr. Md. Forkan Uddin)
+      year: 2023
       description:
+        - Proposed a CE protocol for IRS-based 6G; validated via simulations.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Publications (Selected)
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: "Privacy-preserving Non-negative Matrix Factorization with Outliers"
+      institution: "ACM Transactions on Knowledge Discovery from Data (TKDD)"
+      year: 2024
+      description:
+        - Journal article.
+    - title: "Covert Routing with DSSS Signaling Against Cycle Detectors"
+      institution: "Submitted to IEEE WCNC 2026 (under review)"
+      year: 2026
+      description:
+        - Conference submission.
+    - title: "On Optimal Batch Size in Coded Computing"
+      institution: "IEEE ISIT 2025"
+      year: 2025
+      description:
+        - Conference proceeding.
 
-- title: Honors and Awards
+- title: Academic Roles
   type: time_table
   contents:
-    - year: 1921
+    - title: Graduate Assistant
+      institution: WINLAB, Rutgers University
+      year: Fall 2023 – Present
+      description:
+        - Research on distributed computing and wireless security.
+    - title: Graduate Teaching Assistant
+      institution: Department of ECE, Rutgers University
+      year: Spring 2024
+      description:
+        - ECE 348: Digital Signal Processing Lab.
+    - title: Adjunct Lecturer
+      institution: Southeast University
+      year: 2022 – 2023
+      description:
+        - Courses: EM, Signals & Systems, Control Systems Lab, DSP Lab, Electronics Lab.
+
+- title: Honors and Awards (Selected)
+  type: time_table
+  contents:
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Student Travel Grant Recipient, ISIT 2025
+    - year: 2024
       items:
-        - Max Planck Medal
+        - TA of the Semester Award (Rutgers)
+    - year: 2020
+      items:
+        - Global Champion, IEEE Video and Image Processing Cup (VIP Cup)
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, C/C++, Assembly, Verilog, SystemVerilog
+    - title: Tools
       items:
-        - Description 1.
-        - Description 2.
+        - MATLAB/Simulink, Arduino, Quartus, ModelSim, Cadence
+    - title: Libraries
+      items:
+        - NumPy, Pandas, Matplotlib, PyTorch, scikit-learn, Qiskit
+    - title: Writing
+      items:
+        - LaTeX
 
-- title: Other Interests
-  type: list
+- title: Selected Projects
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Distributed Optimization (ADMM) with MPI
+      institution: Course Project
+      year: 2024
+      description:
+        - Implemented distributed ADMM for global consensus problems.
+    - title: Surface Code (Quantum Error Correction)
+      institution: Course Project
+      year: 2023
+      description:
+        - Studied surface code construction and syndrome decoding (MWPM overview).
