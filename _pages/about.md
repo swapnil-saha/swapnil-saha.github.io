@@ -9,13 +9,12 @@ profile:
   image: profile.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Highland Park, NJ 08904</p>
+    <p>Room 515</p>
+    <p>Rutgers CoRE Building</p>
+    <p>96 Frelinghuysen Rd, Piscataway, NJ 08854</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
