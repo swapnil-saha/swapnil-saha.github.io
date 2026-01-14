@@ -508,28 +508,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%73%77%61%70%6E%69%6C.%73%61%68%61@%72%75%74%67%65%72%73.%65%64%75# %79%6F%75%72 %65%6D%61%69%6C %61%64%64%72%65%73%73", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("mailto:%73%77%61%70%6E%69%6C.%73%61%68%61@%72%75%74%67%65%72%73.%65%64%75", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=L95lKE8AAAAJ&hl=en&oi=sra", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=L95lKE8AAAAJ&hl=en", "_blank");
         },
       },{
       id: 'light-theme',
