@@ -4,129 +4,145 @@
     - name: Full Name
       value: Swapnil Saha
     - name: Location
-      value: New Brunswick, NJ, USA
+      value: "New Brunswick, NJ, USA"
     - name: Email
       value: swapnil.saha@rutgers.edu
     - name: Links
-      value: linkedin.com/in/swapnil-saha · researchgate.net/Swapnil-Saha
+      value: "linkedin.com/in/swapnil-saha · researchgate.net/Swapnil-Saha"
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Electrical and Computer Engineering
-      institution: Rutgers, The State University of New Jersey
-      year: 2025 – Present
+    - title: "Ph.D. in Electrical and Computer Engineering"
+      institution: "Rutgers, The State University of New Jersey"
+      year: "2025 - Present"
       description:
-        - CGPA: 3.94/4
-    - title: M.S. in Electrical and Computer Engineering
-      institution: Rutgers, The State University of New Jersey
-      year: 2023 – 2025
+        - "CGPA: 3.94/4"
+    - title: "M.S. in Electrical and Computer Engineering"
+      institution: "Rutgers, The State University of New Jersey"
+      year: "2023 - 2025"
       description:
-        - CGPA: 3.94/4
-    - title: B.S. in Electrical and Electronic Engineering
-      institution: Bangladesh University of Engineering and Technology (BUET)
-      year: 2017 – 2022
+        - "CGPA: 3.94/4"
+    - title: "B.S. in Electrical and Electronic Engineering"
+      institution: "Bangladesh University of Engineering and Technology (BUET)"
+      year: "2017 - 2022"
       description:
-        - CGPA: 3.64/4
+        - "CGPA: 3.64/4"
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Covert and Secure Wireless Communication (PhD Research)
-      institution: WINLAB, Rutgers University
-      advisor: Prof. Predrag Spasojević
-      year: 2025 - Present
+    - title: "Covert and Secure Wireless Communication (PhD Research)"
+      institution: "WINLAB, Rutgers University"
+      advisor: "Prof. Predrag Spasojević"
+      year: "2025 - Present"
       description:
-        - Research on security techniques for wireless communication systems.
+        - "Research on security techniques for wireless communication systems."
 
-    - title: Distributed Computing (MS Research)
-      institution: Rutgers University (Advisor: Prof. Emina Soljanin)
-      year: 2023 – 2025
+    - title: "Distributed Computing (MS Research)"
+      institution: "Rutgers University"
+      advisor: "Prof. Emina Soljanin"
+      year: "2023 - 2025"
       description:
-        - Implemented faster distributed computing algorithms on distributed workload systems.
-    - title: Channel Estimation for IRS-based 6G Communication
-      institution: BUET (Advisor: Dr. Md. Forkan Uddin)
-      year: 2023
+        - "Implemented faster distributed computing algorithms on distributed workload systems."
+
+    - title: "Channel Estimation for IRS-based 6G Communication"
+      institution: "Bangladesh University of Engineering and Technology (BUET)"
+      advisor: "Dr. Md. Forkan Uddin"
+      year: "2023"
       description:
-        - Proposed a CE protocol for IRS-based 6G; validated via simulations.
+        - "Proposed a CE protocol for IRS-based 6G and validated via simulations."
 
 - title: Publications (Selected)
   type: time_table
   contents:
     - title: "Privacy-preserving Non-negative Matrix Factorization with Outliers"
       institution: "ACM Transactions on Knowledge Discovery from Data (TKDD)"
-      year: 2024
+      year: "2024"
       description:
-        - Journal article.
+        - "Journal article."
     - title: "Covert Routing with DSSS Signaling Against Cycle Detectors"
       institution: "Submitted to IEEE WCNC 2026 (under review)"
-      year: 2026
+      year: "2026"
       description:
-        - Conference submission.
+        - "Conference submission."
     - title: "On Optimal Batch Size in Coded Computing"
       institution: "IEEE ISIT 2025"
-      year: 2025
+      year: "2025"
       description:
-        - Conference proceeding.
+        - "Conference proceeding."
 
 - title: Academic Roles
   type: time_table
   contents:
-    - title: Graduate Assistant
-      institution: WINLAB, Rutgers University
-      year: Fall 2023 – Present
+    - title: "Graduate Assistant"
+      institution: "WINLAB, Rutgers University"
+      year: "Fall 2023 - Present"
       description:
-        - Research on distributed computing and wireless security.
-    - title: Graduate Teaching Assistant
-      institution: Department of ECE, Rutgers University
-      year: Spring 2024
+        - "Research on distributed computing and wireless security."
+    - title: "Graduate Teaching Assistant"
+      institution: "Department of ECE, Rutgers University"
+      year: "Spring 2024"
       description:
-        - ECE 348: Digital Signal Processing Lab.
-    - title: Adjunct Lecturer
-      institution: Southeast University
-      year: 2022 – 2023
+        - "ECE 348: Digital Signal Processing Lab"
+    - title: "Adjunct Lecturer"
+      institution: "Southeast University"
+      year: "2022 - 2023"
       description:
-        - Courses: EM, Signals & Systems, Control Systems Lab, DSP Lab, Electronics Lab.
+        - "Courses: EM, Signals & Systems, Control Systems Lab, DSP Lab, Electronics Lab"
 
 - title: Honors and Awards (Selected)
   type: time_table
   contents:
-    - year: 2025
+    - year: "2025"
       items:
-        - Student Travel Grant Recipient, ISIT 2025
-    - year: 2024
+        - "Student Travel Grant Recipient, ISIT 2025"
+    - year: "2024"
       items:
-        - TA of the Semester Award (Rutgers)
-    - year: 2020
+        - "TA of the Semester Award (Rutgers)"
+    - year: "2020"
       items:
-        - Global Champion, IEEE Video and Image Processing Cup (VIP Cup)
+        - "Global Champion, IEEE Video and Image Processing Cup (VIP Cup)"
 
 - title: Skills
   type: nested_list
   contents:
     - title: Programming
       items:
-        - Python, C/C++, Assembly, Verilog, SystemVerilog
+        - "Python"
+        - "C/C++"
+        - "Assembly"
+        - "Verilog"
+        - "SystemVerilog"
     - title: Tools
       items:
-        - MATLAB/Simulink, Arduino, Quartus, ModelSim, Cadence
+        - "MATLAB/Simulink"
+        - "Arduino"
+        - "Quartus"
+        - "ModelSim"
+        - "Cadence"
     - title: Libraries
       items:
-        - NumPy, Pandas, Matplotlib, PyTorch, scikit-learn, Qiskit
+        - "NumPy"
+        - "Pandas"
+        - "Matplotlib"
+        - "PyTorch"
+        - "scikit-learn"
+        - "Qiskit"
     - title: Writing
       items:
-        - LaTeX
+        - "LaTeX"
 
 - title: Selected Projects
   type: time_table
   contents:
-    - title: Distributed Optimization (ADMM) with MPI
-      institution: Course Project
-      year: 2024
+    - title: "Distributed Optimization (ADMM) with MPI"
+      institution: "Course Project"
+      year: "2024"
       description:
-        - Implemented distributed ADMM for global consensus problems.
-    - title: Surface Code (Quantum Error Correction)
-      institution: Course Project
-      year: 2023
+        - "Implemented distributed ADMM for global consensus problems."
+    - title: "Surface Code (Quantum Error Correction)"
+      institution: "Course Project"
+      year: "2023"
       description:
-        - Studied surface code construction and syndrome decoding (MWPM overview).
+        - "Studied surface code construction and syndrome decoding (MWPM overview)."
