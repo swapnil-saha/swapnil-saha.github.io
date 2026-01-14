@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-hello-world",
           title: 'A simple inline announcement with Markdown hello world.',
           description: "",
           section: "News",},{id: "news-defend-master-s-thesis",
           title: 'Defend master’s thesis.',
+          description: "",
+          section: "News",},{id: "news-our-paper-covert-routing-with-dsss-signaling-against-cycle-detectors-has-been-accepted-for-publication-at-the-ieee-wireless-communications-and-networking-conference-wcnc-2026",
+          title: 'Our paper “Covert Routing with DSSS Signaling Against Cycle Detectors” has been accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
