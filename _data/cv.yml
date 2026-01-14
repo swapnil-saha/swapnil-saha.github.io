@@ -33,10 +33,12 @@
   type: time_table
   contents:
     - title: Covert and Secure Wireless Communication (PhD Research)
-      institution: WINLAB, Rutgers University (Advisor: Prof. Predrag Spasojević)
-      year: 2025 – Present
+      institution: WINLAB, Rutgers University
+      advisor: Prof. Predrag Spasojević
+      year: 2025 - Present
       description:
         - Research on security techniques for wireless communication systems.
+
     - title: Distributed Computing (MS Research)
       institution: Rutgers University (Advisor: Prof. Emina Soljanin)
       year: 2023 – 2025
