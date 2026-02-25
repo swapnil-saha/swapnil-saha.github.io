@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Research Assistant. WINLAB, Rutgers, The State University of New Jersey.
+subtitle: Graduate Research Assistant. 
+WINLAB, Rutgers, The State University of New Jersey.
 
 
 profile:
