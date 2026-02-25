@@ -444,7 +444,7 @@ ninja.data = [{
           title: 'Presented part of my Master’s research, On Optimal Batch Size in Coded Computing,...',
           description: "",
           section: "News",},{id: "news-successfully-defended-my-master-s-thesis-titled-on-optimal-batch-size-in-coded-computing",
-          title: '🎓 Successfully defended my Master’s thesis titled “On Optimal Batch Size in Coded...',
+          title: '🎓 Successfully defended my Master’s thesis titled On Optimal Batch Size in Coded...',
           description: "",
           section: "News",},{id: "news-our-paper-covert-routing-with-dsss-signaling-against-cycle-detectors-has-been-accepted-for-publication-at-the-ieee-wireless-communications-and-networking-conference-wcnc-2026",
           title: 'Our paper “Covert Routing with DSSS Signaling Against Cycle Detectors” has been accepted...',
