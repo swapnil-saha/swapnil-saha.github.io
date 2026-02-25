@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Research Assistant. 
+subtitle: Graduate Research Assistant.\\
 WINLAB, Rutgers, The State University of New Jersey.
 
 
