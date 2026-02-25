@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 Successfully defended my Master's thesis titled  
-**“On Optimal Batch Size in Coded Computing.”**
+🎓 Successfully defended my Master's thesis titled **On Optimal Batch Size in Coded Computing.**
