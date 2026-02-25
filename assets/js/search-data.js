@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-hello-world",
-          title: 'A simple inline announcement with Markdown hello world.',
+            },},{id: "news-presented-part-of-my-master-s-research-on-optimal-batch-size-in-coded-computing-at-the-ieee-international-symposium-on-information-theory-isit-2025",
+          title: 'Presented part of my Master’s research, On Optimal Batch Size in Coded Computing,...',
           description: "",
           section: "News",},{id: "news-successfully-defended-my-master-s-thesis-titled-on-optimal-batch-size-in-coded-computing",
           title: '🎓 Successfully defended my Master’s thesis titled “On Optimal Batch Size in Coded...',
