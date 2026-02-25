@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Graduate Research Assistant. WINLAB, Rutgers, The State University of New Jersey.
+
 
 profile:
   align: right
@@ -26,5 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Swapnil Saha, a third-year graduate student at ECE, Rutgers University. 
-The website is currently undergoing. I will post my update soon.
+Hi, I am Swapnil Saha, a third-year graduate student at the ECE department and graduate research assistant at WINLAB, Rutgers, The State University of New Jersey. 
+The website is currently under construction. Updates will be posted soon.
