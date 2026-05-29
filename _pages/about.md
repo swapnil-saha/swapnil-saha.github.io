@@ -27,4 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Swapnil Saha, a third-year graduate student at the ECE department and graduate research assistant at WINLAB, Rutgers, The State University of New Jersey. I enjoy working on research problems where theoretical ideas can lead to meaningful real-world solutions. Currently, my Ph.D. research with Prof. [Predrag Spasojević] (https://ece.rutgers.edu/predrag-spasojevic) focuses on security in wireless communication. Earlier, I worked with Prof. [Emina Soljanin] (https://emina.flywheelsites.com/) on straggler mitigation in distributed coded computing. Before joining graduate school, I completed my undergraduate studies at Bangladesh University of Engineering and Technology, where I worked with Prof. [Hafiz Imtiaz] (https://hafizimtiaz.buet.ac.bd/) on privacy-preserving machine learning.
+Hi, I am Swapnil Saha, a third-year graduate student in the ECE Department and a Graduate Research Assistant at WINLAB, Rutgers, The State University of New Jersey.
+
+I enjoy working on research problems where theoretical ideas can lead to meaningful real-world solutions. Currently, my Ph.D. research with Prof. <a href="https://ece.rutgers.edu/predrag-spasojevic" style="color: blue; text-decoration: underline;">Predrag Spasojević</a> focuses on <span style="color: blue; text-decoration: underline;">security in wireless communication</span>.
+
+Earlier, I worked with Prof. <a href="https://emina.flywheelsites.com/" style="color: blue; text-decoration: underline;">Emina Soljanin</a> on <span style="color: blue; text-decoration: underline;">straggler mitigation in distributed coded computing</span>.
+
+Before joining graduate school, I completed my undergraduate studies at Bangladesh University of Engineering and Technology, where I worked with Prof. <a href="https://hafizimtiaz.buet.ac.bd/" style="color: blue; text-decoration: underline;">Hafiz Imtiaz</a> on <span style="color: blue; text-decoration: underline;">privacy-preserving machine learning</span>.
