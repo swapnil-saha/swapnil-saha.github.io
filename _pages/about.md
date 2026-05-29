@@ -27,5 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Swapnil Saha, a third-year graduate student at the ECE department and graduate research assistant at WINLAB, Rutgers, The State University of New Jersey. 
-The website is currently under construction. Updates will be posted soon.
+Hi, I am Swapnil Saha, a third-year graduate student at the ECE department and graduate research assistant at WINLAB, Rutgers, The State University of New Jersey. I enjoy working on research problems where theoretical ideas can lead to meaningful real-world solutions. Currently, my Ph.D. research with Prof. [Predrag Spasojević] (https://ece.rutgers.edu/predrag-spasojevic) focuses on security in wireless communication. Earlier, I worked with Prof. [Emina Soljanin] (https://emina.flywheelsites.com/) on straggler mitigation in distributed coded computing. Before joining graduate school, I completed my undergraduate studies at Bangladesh University of Engineering and Technology, where I worked with Prof. [Hafiz Imtiaz] (https://hafizimtiaz.buet.ac.bd/) on privacy-preserving machine learning.
